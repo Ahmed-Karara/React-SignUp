@@ -7,16 +7,16 @@ import { Container } from 'react-bootstrap';
 
 function App() {
 	return (
-		<BrowserRouter>
-			<Container
-				style={{ minHeight: '100vh' }}
-				className='d-flex justify-content-center align-items-center'>
+		<Container
+			style={{ minHeight: '100vh' }}
+			className='d-flex justify-content-center align-items-center'>
+			<BrowserRouter>
 				<Routes>
 					<Route path='/' element={<GetStarted />} />
 					<Route path='/SignUp' element={<SignUp />} />
 				</Routes>
-			</Container>
-		</BrowserRouter>
+			</BrowserRouter>
+		</Container>
 	);
 }
 
