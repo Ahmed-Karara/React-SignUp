@@ -2,7 +2,7 @@
 	"homepage": "http://ahmed-karara.github.io/React-SignUp/",
 	"name": "authentication-",
 	"version": "0.1.0",
-	"private": true,
+	"private": false,
 	"dependencies": {
 		"@fortawesome/fontawesome": "^1.1.8",
 		"@fortawesome/fontawesome-svg-core": "^6.2.1",
