@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/React-SignUp/static/css/main.de2d007a.css",
-    "main.js": "/React-SignUp/static/js/main.69649bfc.js",
+    "main.js": "/React-SignUp/static/js/main.69491c01.js",
     "static/media/necklace.jpeg": "/React-SignUp/static/media/necklace.98ccba6631a1b47b1a12.jpeg",
     "static/media/necklace2.jpg": "/React-SignUp/static/media/necklace2.29e073ad653f8c41b7be.jpg",
     "static/media/necklace3.jpg": "/React-SignUp/static/media/necklace3.9646d9bf8ea90bb0239e.jpg",
     "index.html": "/React-SignUp/index.html",
     "main.de2d007a.css.map": "/React-SignUp/static/css/main.de2d007a.css.map",
-    "main.69649bfc.js.map": "/React-SignUp/static/js/main.69649bfc.js.map"
+    "main.69491c01.js.map": "/React-SignUp/static/js/main.69491c01.js.map"
   },
   "entrypoints": [
     "static/css/main.de2d007a.css",
-    "static/js/main.69649bfc.js"
+    "static/js/main.69491c01.js"
   ]
 }
