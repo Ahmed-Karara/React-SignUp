@@ -11,7 +11,7 @@ function App() {
 			style={{ minHeight: '100vh' }}
 			className='d-flex justify-content-center align-items-center'>
 			<Routes>
-				<Route path='/*' element={<GetStarted />} />
+				<Route exact path='/' element={<GetStarted />} />
 				<Route path='/SignUp' element={<SignUp />} />
 			</Routes>
 		</Container>
