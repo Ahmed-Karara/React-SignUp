@@ -112,7 +112,7 @@ export default function SignUp() {
 
 	return (
 		<>
-			{success === true ? (
+			{success == true ? (
 				<div className='signup'>
 					<div className='img'>
 						<img src={necklace2} alt={necklace} />
