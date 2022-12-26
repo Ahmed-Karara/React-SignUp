@@ -118,7 +118,7 @@ export default function SignUp() {
 						<img src={necklace2} alt={necklace} />
 					</div>
 					<div className='register'>
-						<h2 className='mb-4 mt-2'>Logged in Successfully</h2>
+						<h2 className='mb-4 mt-2'>Signed Up Successfully</h2>
 						<h4>Welcome</h4>
 						<span>{logEmail.Email}</span>
 					</div>
